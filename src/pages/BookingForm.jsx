@@ -145,7 +145,7 @@ export default function BookingForm({
 
           <button
             type="button"
-            className="btn btn-outline-warning mt-3"
+            className="btn btn-warning mt-3"
             onClick={() => {
               setSubmittedBooking(null);
               setSelectedPackage("");
